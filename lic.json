@@ -17,16 +17,16 @@
     {
       "productId": "Asn_Alisa",
       "hardwareId": "FF9BE3B0B4F22BF95B4FD3F99132FE85A5DE7E831BB55B432421006AE794E2A8",
-      "expiresUtc": "2026-05-13T23:59:59Z",
+      "expiresUtc": "2026-12-25T23:59:59Z",
       "issuedUtc":  "2026-04-25T10:00:00Z",
-      "signature": "+vdecsZ8zZx6n3D6uPk7E2AaaKF4UkKTM8nY97VqmrM="
+      "signature": "KzfQzasaPPpAo2w7RblqDZpKN0xMjp9Aa6mYWFNVNRk="
     },
     {
       "productId": "Asn_Max",
       "hardwareId": "CD8C34D5E56979E5092340F0159DF78DE67F554715737E8E060856280A9A7FE8",
-      "expiresUtc": "2026-05-13T23:59:59Z",
+      "expiresUtc": "2026-12-25T23:59:59Z",
       "issuedUtc":  "2026-04-26T10:00:00Z",
-      "signature": "Si3cbtovOo+1avS9HOYxt753iXIHQS0cwoOUJsmZRYw="
+      "signature": "uEKvJB7rPditFl4CyfEWuo3n5V1cLKTYOPVnVHf0Jjg="
     },
     {
       "productId": "N_",
